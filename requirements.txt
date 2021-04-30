@@ -1,0 +1,10 @@
+click==7.1.2
+emoji==1.2.0
+joblib==1.0.1
+nltk==3.6.2
+python-dateutil==2.8.1
+regex==2021.4.4
+selenium==3.141.0
+six==1.15.0
+tqdm==4.60.0
+urllib3==1.26.4
